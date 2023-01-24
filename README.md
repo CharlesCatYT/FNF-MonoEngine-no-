@@ -1,12 +1,16 @@
-# Friday Night Funkin' Plus
+# Friday Night Funkin' Mono Engine
 
-This is the repository for Friday Night Funkin' Plus, a modification of the latest source code of Friday Night Funkin' that brings in v0.2.8 features and improvements, without Week 7.
+This is the repository for Friday Night Funkin' Mono Engine, a modification of v0.2.8, with HScript support and more.
 
 - [View the original source code](https://github.com/ninjamuffin99/Funkin)
 - [Play the Ludum Dare prototype](https://ninja-muffin24.itch.io/friday-night-funkin)
 - [Play the Newgrounds version](https://www.newgrounds.com/portal/view/770371)
 - [Support the original on itch.io](https://ninja-muffin24.itch.io/funkin)
 - [View progress of The Full Ass Game on Kickstarter](https://www.kickstarter.com/projects/funkin/friday-night-funkin-the-full-ass-game)
+
+## FNF Mono Engine Credits
+
+- CharlesCatYT - Main Programmer
 
 ## Friday Night Funkin' Plus Credits
 
